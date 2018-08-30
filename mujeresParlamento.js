@@ -1,0 +1,26 @@
+var dataMujeres = [
+        {"year": 1997,"debt":7.1},
+        {"year": 1998,"debt":7.1},
+        {"year": 1999,"debt":12.1},
+        {"year": 2000,"debt":12.1},
+        {"year": 2001,"debt":12.1},
+        {"year": 2002,"debt":12.1},
+        {"year": 2003,"debt":12.1},
+        {"year": 2004,"debt":12.1},
+        {"year": 2005,"debt":12.1},
+        {"year": 2006,"debt":12.1},
+        {"year": 2007,"debt":12.1},
+        {"year": 2008,"debt":12.1},
+        {"year": 2009,"debt":14.1},
+        {"year": 2010,"debt":15.2},
+        {"year": 2011,"debt":12.1},
+        {"year": 2012,"debt":12.1},
+        {"year": 2013,"debt":12.1},
+        {"year": 2014,"debt":13.1},
+        {"year": 2015,"debt":16.2},
+        {"year": 2016,"debt":20.2},                
+        {"year": 2017,"debt":20.2},
+        {"year": 2018,"debt":20.2},
+]
+
+
